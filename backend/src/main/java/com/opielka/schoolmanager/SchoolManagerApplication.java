@@ -1,4 +1,4 @@
-package com.opielka.SchoolManager;
+package com.opielka.schoolmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS school_class (
+    id BIGINT PRIMARY KEY,
+    student VARCHAR(255) NOT NULL
+);
